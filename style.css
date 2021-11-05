@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  text-align: center;
+  align-items: center;
+  background-image: url(./img/Download-LpJGRL3abOUX-beautiful-snake-pattern-art-background-wallpapers.jpg);
+}
+
+h1 {
+  color: yellow;
+  background-color: #480c06;
+  margin-bottom: 20px;
+  height: 50px;
+  text-align: center;
+}
